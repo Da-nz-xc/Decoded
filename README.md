@@ -1,4 +1,4 @@
-[+] Decoded python-311
+ [+] Decoded python-311
 - Tools decoded by danz-Xc
 - tools ini untuk mendecoded file
   semacam lambda marshal zlib base dll
