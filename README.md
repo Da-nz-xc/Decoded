@@ -1,4 +1,5 @@
  [+] Decoded python-311
+ 
 - Tools decoded by danz-Xc
 - tools ini untuk mendecoded file
   semacam lambda marshal zlib base dll
@@ -24,4 +25,6 @@
 
 - Running tools in termux:
 
-      
+      git clone https://github.com/Da-nz-xc/Decoded
+      cd Decoded
+      python3.11 decoded.py
