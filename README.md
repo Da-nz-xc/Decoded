@@ -1,4 +1,4 @@
- [+] Decoded python-311
+ [+] Decoded python-311 Simpel
  
 - Tools decoded by danz-Xc
 - tools ini untuk mendecoded file
