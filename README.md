@@ -7,14 +7,14 @@
 - support decoded varibel,pyfucate
 - untuk versi cpython-311.so coming soon
 
-- Install Module pkg in termux:
+# 🔧 Install Module pkg in termux:
   
       pkg update && pkg upgrade
       pkg install tur-repo
       pkg install python3.11
       pkg install git
 
-- Install Module pip in termux:
+# 🔧 Install Module pip in termux:
 
       pip3.11 install rich
       pip3.11 install getpass
@@ -23,12 +23,12 @@
       pip3.11 install subprocess
       pip3.11 install webbrowser
   
-- Install pycdc python-311
+# Install pycdc python-311
   
       cp pycdc /data/data/com.termux/files/usr/
       chmod 777 /data/data/com.termux/files/usr/bin/pycdc3
   
-- Running tools in termux:
+# Running tools in termux:
 
       git clone https://github.com/Da-nz-xc/Decoded
       cd Decoded
