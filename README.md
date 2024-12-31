@@ -22,7 +22,12 @@
       pip3.11 install autopep8
       pip3.11 install subprocess
       pip3.11 install webbrowser
-
+  
+- Install pycdc python-311
+  
+      cp pycdc /data/data/com.termux/files/usr/
+      chmod 777 /data/data/com.termux/files/usr/bin/pycdc3
+  
 - Running tools in termux:
 
       git clone https://github.com/Da-nz-xc/Decoded
