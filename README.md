@@ -33,3 +33,11 @@
       git clone https://github.com/Da-nz-xc/Decoded
       cd Decoded
       python3.11 decoded.py
+
+- Bentuk dalam lisensi key
+  
+<br>
+<p align="center">
+  <img src="1735546659563.jpg" alt="Screenshot" width="400"/>
+</p>
+
