@@ -29,7 +29,7 @@ Welcome
   
 # Install pycdc python-311
   
-      cp pycdc /data/data/com.termux/files/usr/
+      cp pycdc3 /data/data/com.termux/files/usr/
       chmod 777 /data/data/com.termux/files/usr/bin/pycdc3
   
 # Running tools in termux:
