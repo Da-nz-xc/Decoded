@@ -1,4 +1,4 @@
- [+] Decoded python-311 Simpel
+# Decoded python-311 Simpel
  
 - Tools decoded by danz-Xc
 - tools ini untuk mendecoded file
@@ -34,10 +34,32 @@
       cd Decoded
       python3.11 decoded.py
 
-- Bentuk dalam lisensi key
+# 🔐 Bentuk dalam lisensi key
   
 <br>
 <p align="center">
-  <img src="1735546659563.jpg" alt="Screenshot" width="400"/>
+  <img src="lisensi.jpg" alt="Screenshot" width="400"/>
 </p>
 
+- Untuk memasukan lisensi key bagi para pengguna
+
+# 🚀 Bentuk dalam menu decoded
+
+<br>
+<p align="center">
+  <img src="menu.jpg" alt="Screenshot" width="400"/>
+</p>
+
+- untuk decoded bermacam fiktur deoeded belum support decoded layers marshal lambda
+
+# Fiktur in tools
+
+1. Decoded lambda,marshal,zlib,base All
+2. Decoded lambda zlib base All
+3. Decoded marshal zlib base All
+4. Decoded varibel by Ryougaa_XD
+5. Decoded cpython-310.so
+6. Decoded pyfucate
+
+# Hubingi saya jika ada kesalahan
+- WhatsApp: https://wa.me/6283170597744
