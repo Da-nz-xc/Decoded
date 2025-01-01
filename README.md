@@ -65,5 +65,14 @@ Welcome
 5. Decoded cpython-310.so
 6. Decoded pyfucate
 
+# 🙏 Fitur yang belum ada
+
+1. Decoded esay lzma,gzip,bz2,binascii,
+   codecs
+2. Decoded esay lambda lzma,gzip,bz2,
+   binascii,codecs
+3. Decoded marshal lzma,gzip,bz2,
+   binascii,codecs
+   
 # Hubingi saya jika ada kesalahan
 - WhatsApp: https://wa.me/6283170597744
