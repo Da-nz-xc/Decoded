@@ -62,7 +62,7 @@ Welcome
 2. Decoded lambda zlib base All
 3. Decoded marshal zlib base All
 4. Decoded varibel by Ryougaa_XD
-5. Decoded cpython-310.so
+5. Decoded cpython-310.so lambada, zlib,base64 ( Belum work semua file )
 6. Decoded pyfucate
 
 # 🙏 Fitur yang belum ada
